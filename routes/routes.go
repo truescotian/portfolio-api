@@ -5,7 +5,7 @@ package routes
 import (
 	"github.com/codegangsta/negroni"
 	"github.com/gorilla/mux"
-	"github.com/gregpmillr/rest-api/controllers"
+	"github.com/truescotian/portfolio-api/controllers"
 )
 
 var (
